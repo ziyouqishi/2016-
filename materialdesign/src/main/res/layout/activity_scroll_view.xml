@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+
+    tools:context="com.zhimei.materialdesign.ScrollViewActivity">
+    <com.gc.materialdesign.views.ZdyScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+            >
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/hello"
+                android:layout_gravity="center_horizontal"
+                android:layout_centerHorizontal="true" />
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/hello"
+                android:layout_gravity="center_horizontal"
+                android:layout_centerHorizontal="true" />
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/hello"
+                android:layout_gravity="center_horizontal"
+                android:layout_centerHorizontal="true" />
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/hello"
+                android:layout_gravity="center_horizontal"
+                android:layout_centerHorizontal="true" />
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/hello"
+                android:layout_gravity="center_horizontal"
+                android:layout_centerHorizontal="true" />
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/hello"
+                android:layout_gravity="center_horizontal"
+                android:layout_centerHorizontal="true" />
+
+        </LinearLayout>
+
+    </com.gc.materialdesign.views.ZdyScrollView>
+
+
+
+
+</RelativeLayout>

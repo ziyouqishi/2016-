@@ -1,0 +1,43 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CamaraActivity">
+
+  <SurfaceView
+      android:id="@+id/surfacrview"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent" />
+
+    <RelativeLayout
+        android:id="@+id/layout"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/takePicture"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="15dp"
+
+            android:onClick="takePhoto"
+
+            android:text="拍照"
+            android:textSize="18sp"/>
+
+
+        <Button
+            android:id="@+id/takeFocus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="调焦"
+            android:onClick="takeFocus"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="40dp"
+            android:layout_toRightOf="@+id/takePicture"
+            android:textSize="18sp"/>
+
+    </RelativeLayout>
+
+</FrameLayout>

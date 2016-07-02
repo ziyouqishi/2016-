@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">paint</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_shape">ShapeActivity</string>
+    <string name="title_activity_bitmap_canvas">BitmapCanvasActivity</string>
+    <string name="title_activity_clock">ClockActivity</string>
+    <string name="title_activity_seek_bar_paint">SeekBarPaintActivity</string>
+    <string name="title_activity_color_matrix">ColorMatrixActivity</string>
+    <string name="title_activity_pixels_bitmao">PixelsBitmaoActivity</string>
+    <string name="title_activity_guaguaka">GuaguakaActivity</string>
+    <string name="title_activity_surface_view">SurfaceViewActivity</string>
+    <string name="title_activity_bitmap_color_test">BitmapColorTestActivity</string>
+</resources>

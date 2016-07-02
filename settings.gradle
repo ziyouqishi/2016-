@@ -1,0 +1,1 @@
+include ':app', ':animation', ':xuexi', ':arcwidget', ':list', ':scroll', ':paint', ':newui', ':materialdesign', ':masterialdesign2', ':mediatest', ':photodeal', ':videozhongguancun', ':theme_test', ':can_delete_listview', ':swip_menulist_view', ':ceshi', ':test'

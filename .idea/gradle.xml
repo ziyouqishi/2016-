@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/animation" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/arcwidget" />
+            <option value="$PROJECT_DIR$/can_delete_listview" />
+            <option value="$PROJECT_DIR$/ceshi" />
+            <option value="$PROJECT_DIR$/list" />
+            <option value="$PROJECT_DIR$/masterialdesign2" />
+            <option value="$PROJECT_DIR$/materialdesign" />
+            <option value="$PROJECT_DIR$/mediatest" />
+            <option value="$PROJECT_DIR$/newui" />
+            <option value="$PROJECT_DIR$/paint" />
+            <option value="$PROJECT_DIR$/photodeal" />
+            <option value="$PROJECT_DIR$/scroll" />
+            <option value="$PROJECT_DIR$/swip_menulist_view" />
+            <option value="$PROJECT_DIR$/test" />
+            <option value="$PROJECT_DIR$/theme_test" />
+            <option value="$PROJECT_DIR$/videozhongguancun" />
+            <option value="$PROJECT_DIR$/xuexi" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

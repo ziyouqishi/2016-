@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <ImageView
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:src="@drawable/xique"
+         />
+    <ImageView
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:src="@drawable/xique"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="hello,HOlO"
+        android:textSize="23sp"
+        android:padding="34dp"
+        android:src="@drawable/xique"/>
+ <Button
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="我是Button"
+     android:background="#FFFF4336"
+     android:textColor="#FF4DFF52"
+     />
+
+
+
+
+</LinearLayout>

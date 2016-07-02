@@ -1,0 +1,11 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <utitls.MyTextView
+        android:text="你在哪里呢，我在家里那你"
+        android:layout_width="match_parent"
+        android:textSize="23sp"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

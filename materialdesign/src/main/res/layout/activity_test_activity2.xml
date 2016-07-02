@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:materialdesign="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:orientation="vertical"
+
+    tools:context="com.zhimei.materialdesign.TestActivity2">
+
+    <com.gc.materialdesign.views.LayoutRipple
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        >
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="button"
+            android:textSize="23sp"
+
+            />
+
+    </com.gc.materialdesign.views.LayoutRipple>
+
+    <com.gc.materialdesign.views.ButtonRectangle
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#1E88E5"
+        materialdesign:animate="true"
+        android:onClick="haha"
+        android:text="Button"
+        android:textSize="17sp"
+        android:textColor="#FFE53D44"
+        />
+
+    <com.gc.materialdesign.views.ButtonFloatSmall
+        android:id="@+id/buttonFloatSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#1E88E5"
+        android:onClick="huhu"
+        materialdesign:theme="@style/AppBaseTheme"
+        materialdesign:iconDrawable="@drawable/ic_action_new" />
+
+    <com.gc.materialdesign.views.ButtonFloat
+        android:id="@+id/buttonFloat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="24dp"
+        android:background="#1E88E5"
+        materialdesign:animate="true"
+        materialdesign:iconDrawable="@drawable/ic_action_new" />
+
+    <com.gc.materialdesign.views.ButtonFlat
+        android:id="@+id/buttonflat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        materialdesign:animate="true"
+        android:text="hello" />
+
+</LinearLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VocationTest2.iml" filepath="$PROJECT_DIR$/VocationTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animation/animation.iml" filepath="$PROJECT_DIR$/animation/animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arcwidget/arcwidget.iml" filepath="$PROJECT_DIR$/arcwidget/arcwidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/can_delete_listview/can_delete_listview.iml" filepath="$PROJECT_DIR$/can_delete_listview/can_delete_listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ceshi/ceshi.iml" filepath="$PROJECT_DIR$/ceshi/ceshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/masterialdesign2/masterialdesign2.iml" filepath="$PROJECT_DIR$/masterialdesign2/masterialdesign2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialdesign/materialdesign.iml" filepath="$PROJECT_DIR$/materialdesign/materialdesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mediatest/mediatest.iml" filepath="$PROJECT_DIR$/mediatest/mediatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newui/newui.iml" filepath="$PROJECT_DIR$/newui/newui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paint/paint.iml" filepath="$PROJECT_DIR$/paint/paint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photodeal/photodeal.iml" filepath="$PROJECT_DIR$/photodeal/photodeal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scroll/scroll.iml" filepath="$PROJECT_DIR$/scroll/scroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swip_menulist_view/swip_menulist_view.iml" filepath="$PROJECT_DIR$/swip_menulist_view/swip_menulist_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theme_test/theme_test.iml" filepath="$PROJECT_DIR$/theme_test/theme_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videozhongguancun/videozhongguancun.iml" filepath="$PROJECT_DIR$/videozhongguancun/videozhongguancun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuexi/xuexi.iml" filepath="$PROJECT_DIR$/xuexi/xuexi.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">newUI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view_shader">ViewShaderActivity</string>
+    <string name="title_activity_recycler_view">RecyclerViewActivity</string>
+    <string name="title_activity_">ActivityA</string>
+    <string name="title_activity_activity_b">ActivityB</string>
+    <string name="title_activity_ripple_test">RippleTestActivity</string>
+</resources>
